@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "2020/08/01",
+        "Author": "Eduard",
+        "title": "Interesting post",
+        "Content": "this is my first post :) !!"
+    },
+    {
+        "id": 2,
+        "date": "2020/08/01",
+        "Author": "Martin",
+        "title": "Interesting post",
+        "Content": "this is my first post :) !!"
+    },
+    {
+        "date": "2020/08/04",
+        "Author": "Javier",
+        "title": "NodeJs rules",
+        "Content": "NodeJs is a javascript based programming language mainly used to write server side code.",
+        "id": 3
+    }
+]
